@@ -36,4 +36,4 @@ ports:
 
 # docker hub
 #image: matt8707/addon-ha-fusion-{arch}
-image: registry.local.kalinka-realty.com/ha/hafusion:latest
+image: registry.local.kalinka-realty.com/ha/hafusion-{arch}
